@@ -20,10 +20,6 @@
 		<data>
 		6Bks6mqx8ddVr3PwDAiil82hcJU=
 		</data>
-		<key>coins.json</key>
-		<data>
-		WIUQuuahLvK0VBKYE0mPFwzkz4o=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -39,13 +35,6 @@
 			<key>hash2</key>
 			<data>
 			8cqZz2bjmCed8/TRN06u6sdfNHIRHLHJgUa2HMawuB4=
-			</data>
-		</dict>
-		<key>coins.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G6QLqekGx3wCurXaFA5YKDe4JId0HFE0g7iXjVkj+E8=
 			</data>
 		</dict>
 	</dict>
