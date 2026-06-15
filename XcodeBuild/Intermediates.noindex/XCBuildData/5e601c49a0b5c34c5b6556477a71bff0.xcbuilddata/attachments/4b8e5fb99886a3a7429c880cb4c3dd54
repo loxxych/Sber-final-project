@@ -1,0 +1,269 @@
+{
+  "" : {
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber final project-primary.dia",
+    "emit-module-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber final project-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber final project-primary-emit-module.dia",
+    "pch" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber final project-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber final project-primary.swiftdeps"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/App/AppContainer.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AppContainer~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/App/RootView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/RootView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/App/SessionManager.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/SessionManager~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Data/Network/APIClient.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/APIClient~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Data/Network/CoinDTO.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDTO~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Data/Persistence/FavoriteCoinModel.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoriteCoinModel~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Data/Persistence/FavoritesRepository.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepository~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Data/Repositories/CoinsRepository.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepository~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Domain/Entities/Coin.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Coin~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Domain/Repositories/CoinsRepositoryProtocol.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsRepositoryProtocol~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Domain/Repositories/FavoritesRepositoryProtocol.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesRepositoryProtocol~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Domain/UseCases/FetchCoinsUseCase.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FetchCoinsUseCase~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Domain/UseCases/ManageFavoritesUseCase.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/ManageFavoritesUseCase~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Auth/AuthScreen.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthScreen~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Auth/AuthViewController.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewController~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Auth/AuthViewModel.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/AuthViewModel~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinDetail/CoinDetailView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinDetail/CoinDetailViewModel.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinDetailViewModel~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinsList/CoinRowView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinRowView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinsList/CoinsListView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinsList/CoinsListViewModel.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/CoinsListViewModel~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Favorites/FavoritesView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Favorites/FavoritesViewModel.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/FavoritesViewModel~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/MainTabView.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Sber_final_projectApp.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/Sber_final_projectApp~partial.swiftmodule"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug-iphonesimulator/Sber final project.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

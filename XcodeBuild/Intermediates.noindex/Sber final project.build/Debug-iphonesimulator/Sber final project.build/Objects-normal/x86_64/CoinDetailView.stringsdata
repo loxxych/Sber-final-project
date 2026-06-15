@@ -1,0 +1,24 @@
+{
+  "source": "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinDetail/CoinDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "В избранном",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Добавить в избранное",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

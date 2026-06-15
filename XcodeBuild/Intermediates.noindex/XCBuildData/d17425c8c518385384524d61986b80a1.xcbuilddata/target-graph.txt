@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Sber final projectTests' in project 'Sber final project'
+➜ Explicit dependency on target 'Sber final project' in project 'Sber final project'
+Target 'Sber final project' in project 'Sber final project' (no dependencies)

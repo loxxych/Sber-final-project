@@ -1,0 +1,24 @@
+{
+  "source": "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Монеты",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Избранное",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 23
+        }
+      }
+    ]
+  },
+  "version": 1
+}

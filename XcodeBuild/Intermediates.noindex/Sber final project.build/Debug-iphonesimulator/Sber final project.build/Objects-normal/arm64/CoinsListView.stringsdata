@@ -1,0 +1,24 @@
+{
+  "source": "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/CoinsList/CoinsListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Криптовалюты",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Повторить",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 46
+        }
+      }
+    ]
+  },
+  "version": 1
+}

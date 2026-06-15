@@ -1,0 +1,32 @@
+{
+  "source": "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/Presentation/Favorites/FavoritesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Избранное",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Добавьте монеты из списка, чтобы они появились здесь",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Пока пусто",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 31
+        }
+      }
+    ]
+  },
+  "version": 1
+}

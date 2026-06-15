@@ -1,0 +1,61 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e81954abc20bb1951812325f89c730ac1488f655f9c4e1acb687f4d8c4ebc9fc"
+    }
+  ],
+  "containerPath" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx26.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex",
+      "buildProductsPath" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Products",
+      "derivedDataPath" : "/Users/loxxych/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/loxxych/Library/Developer/Xcode/DerivedData/Sber_final_project-cowlvoephbwpqiaprnbgahuztgzs/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/loxxych/Library/Developer/Xcode/DerivedData/Sber_final_project-cowlvoephbwpqiaprnbgahuztgzs/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.864 $(inherited)"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

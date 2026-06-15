@@ -1,0 +1,8 @@
+{
+  "" : {
+    "pch" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug/Sber final project.build/Objects-normal/arm64/Sber final project-primary-Bridging-header.pch"
+  },
+  "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/Sber final project/ContentView.swift" : {
+    "object" : "/Users/loxxych/XcodeProjects/Sber final project/Sber final project/XcodeBuild/Intermediates.noindex/Sber final project.build/Debug/Sber final project.build/Objects-normal/arm64/ContentView.__XCPREVIEW_THUNKSUFFIX__.preview-thunk.o"
+  }
+}

@@ -1,0 +1,26 @@
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/App/AppContainer.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/App/RootView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/App/SessionManager.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Data/Network/APIClient.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Data/Network/CoinDTO.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Data/Persistence/FavoriteCoinModel.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Data/Persistence/FavoritesRepository.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Data/Repositories/CoinsRepository.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Domain/Entities/Coin.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Domain/Repositories/CoinsRepositoryProtocol.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Domain/Repositories/FavoritesRepositoryProtocol.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Domain/UseCases/FetchCoinsUseCase.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Domain/UseCases/ManageFavoritesUseCase.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/Auth/AuthScreen.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/Auth/AuthViewController.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/Auth/AuthViewModel.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/CoinDetail/CoinDetailView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/CoinDetail/CoinDetailViewModel.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/CoinsList/CoinRowView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/CoinsList/CoinsListView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/CoinsList/CoinsListViewModel.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/Favorites/FavoritesView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/Favorites/FavoritesViewModel.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Presentation/MainTabView.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/Sber\ final\ project/Sber_final_projectApp.swift
+/Users/loxxych/XcodeProjects/Sber\ final\ project/Sber\ final\ project/XcodeBuild/Intermediates.noindex/Sber\ final\ project.build/Debug/Sber\ final\ project.build/DerivedSources/GeneratedAssetSymbols.swift
